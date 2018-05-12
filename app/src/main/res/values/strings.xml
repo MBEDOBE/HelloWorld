@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="company">UDACITY</string>
+    <string name="web">www.udacity.com</string>
+    <string name="location">2465 Latham St, Mountain View, CA 94043</string>
+    <string name="telephone">650-555-5555</string>
+</resources>
